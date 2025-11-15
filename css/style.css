@@ -161,7 +161,7 @@ main {
     align-items: center;
     justify-content: space-between;
     gap: 24px;
-    padding: 24px 0px;
+    padding: 24px px;
 }
 .searching-field {
     display: flex;
