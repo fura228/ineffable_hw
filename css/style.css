@@ -199,7 +199,7 @@ main {
     justify-content: center;
     gap: 6px;
     width: 416px;
-    height: 162px;
+    height: fit-content;
     background-color: #F4F4F5;
     border-radius: 12px;
 }
