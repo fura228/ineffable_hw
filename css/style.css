@@ -136,7 +136,7 @@ footer {
 .card{
     display: flex;
     flex-direction: column;
-    width: 464px;
+    width: 100%;
     border-radius: 24px;
     padding: 24px;
     gap: 18px;
@@ -178,7 +178,7 @@ footer {
 .main-company {
     display: flex;
     flex-direction: column;
-    width: 464px;
+    width: 100%;
     border-radius: 24px;
     background-color: #18181B;
     padding: 24px;
@@ -191,7 +191,7 @@ footer {
     gap: 12px;
     p {
         font-size: 16px;
-        width: 331px;
+        width: 100%;
     }
 }
 
